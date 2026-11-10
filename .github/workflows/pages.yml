@@ -1,9 +1,9 @@
 # Publishes the Listening Archive: downloads archive.zip from the "site" release and deploys it to GitHub Pages.
 name: Pages
 
+# Run by hand after uploading a new archive.zip (a release-triggered run would deploy from the tag,
+# which the github-pages environment does not allow).
 on:
-  release:
-    types: [published]
   workflow_dispatch:
 
 permissions:
