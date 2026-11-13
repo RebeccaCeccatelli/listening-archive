@@ -1,7 +1,8 @@
 # Listening Archive
 
-Every clip generated in the final round of sweeps for the music-EBT Master's thesis: unguided generation and
-single- and combined-attribute control, by the energy-based model (EBT) and the Llama / GPT-2 baselines.
+Every clip generated in the final round of sweeps for the Master's thesis on Tonic, an Energy-Based Transformer for
+symbolic music: unguided generation and single- and multi-attribute control, by Tonic and the Llama / GPT-2 baselines.
+More about Tonic (thesis, showcase, survey, demo): https://rebeccaceccatelli.github.io/tonic/
 
 Live: https://rebeccaceccatelli.github.io/listening-archive/
 
